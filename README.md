@@ -18,11 +18,8 @@ The table below provides the detailed statistics of the DEBATE dataset.
 
 ## Dataset Construct
 <div align="center"><img width="600px" src="figure/pipeline.png" /></div>
-The data was collected from three primary sources: 
-
-&bull; open-source corpora
-
-&bull; social media platforms
-
-&bull; standardised examination question banks
+The data was collected from three primary sources:  
+&bull; open-source corpora  
+&bull; social media platforms  
+&bull; standardised examination question banks  
 
