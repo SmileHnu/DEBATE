@@ -24,5 +24,5 @@ The text was collected from three primary sources:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; standardised examination question banks<br>
 After collecting the text, we performed systematic manual annotation to classify the data into three distinct types of ambiguity: <i>polyphonic character ambiguity</i> , <i>structural ambiguity</i> , and <i>focus ambiguity</i>. To further enhance the usability of this dataset in semantic understanding and downstream evaluation tasks, we generated semantic annotations for each sentence. <br>
 &nbsp;&nbsp;<strong>Record Details</strong><br>
-We recruited ten demographically balanced speakers and employed a two-person collaborative recording process with quality checks and real-time monitoring. The recordings were made using smartphones, and all audio files were resampled to 16kHz.
+We recruited ten speakers with balanced demographic characteristics and used a two-person collaborative recording procedure with mobile phones. Real-time monitoring was conducted during the recording process, and all audio files were resampled to 16 kHz.
 
