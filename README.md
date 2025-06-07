@@ -23,8 +23,8 @@ The text was collected from three primary sources:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; social media platforms<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; standardised examination question banks<br>
 After collecting the text, we performed systematic manual annotation to classify the data into three distinct types of ambiguity: <i>polyphonic character ambiguity</i> , <i>structural ambiguity</i> , and <i>focus ambiguity</i>. To further enhance the usability of this dataset in semantic understanding and downstream evaluation tasks, we generated semantic annotations for each sentence. <br>
-We recruited ten speakers with balanced demographic characteristics and used a two-person collaborative recording procedure with mobile phones. Real-time monitoring was conducted during the recording process, and all audio files were resampled to 16 kHz.
-The dataset quality was checked using the following methods:
+We recruited ten speakers with balanced demographic characteristics and used a two-person collaborative recording procedure with mobile phones. Real-time monitoring was conducted during the recording process, and all audio files were resampled to 16 kHz.<br>
+The dataset quality was checked using the following methods:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Verifying whether the number of audio files for each task per speaker was correct<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Randomly sampling audio files for inspection<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Conducting audio CER testing using ASR models
