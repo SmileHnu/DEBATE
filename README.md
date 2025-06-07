@@ -43,7 +43,7 @@ The audio file storage structure is shown below, where x represents the speaker 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<i>stress</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>sx_s_id_000.wav</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>sx_s_id_001.wav</i><br>
-The folders <i>polyphone</i>, <i>segment</i>, and <i>stress</i> correspond to the three text annotation files: <i>Task_Proun.xls</i>, <i>Task_Pause.xls</i>, and <i>Task_Stres.xls</i>, respectively.Each file contains three columns:<br>
+The folders <code><i>polyphone</i></code>, <i>segment</i>, and <i>stress</i> correspond to the three text annotation files: <i>Task_Proun.xls</i>, <i>Task_Pause.xls</i>, and <i>Task_Stres.xls</i>, respectively.Each file contains three columns:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; the transcribed sentence<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; the corresponding audio ID<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; the semantic annotation of the sentence meaning<br>
