@@ -8,6 +8,7 @@ This is the official repository of the DEBATE dataset, containing detailed infor
 DEBATE dataset is a unique public Chinese speech-text dataset designed to study how speech cues and patterns—pronunciation, pause, stress and intonation—can help resolve textual ambiguity and reveal a speaker’s true intent.It contains 1,001 carefully selected ambiguous utterances, each recorded by 10 native speakers. 
 The table below provides the detailed statistics of the DEBATE dataset.
 |   Tasks  | Samples | Hours | Mean Duration(s) | Duration Range(s) |
+|:--------:|:-------:|:-----:|:----------------:|:-----------------:|
 ## Dataset Download
 Zenodo：[download](https://zenodo.org/records/15609922)
 ## Construct Pipeline
