@@ -22,5 +22,5 @@ The text was collected from three primary sources:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; open-source corpora<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; social media platforms<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; standardised examination question banks<br>
-After collecting the text, we performed systematic manual annotation to classify the data into three distinct types of ambiguity: *polyphonic character ambiguity* , *structural ambiguity* , and *focus ambiguity* . 
+After collecting the text, we performed systematic manual annotation to classify the data into three distinct types of ambiguity: <i>polyphonic character ambiguity</i> , <i>structural ambiguity</i> , and <i>focus ambiguity</i> . 
 
