@@ -20,6 +20,4 @@ The data was collected from three primary sources:
 - open-source corpora
 - social media platforms
 - standardised examination question banks
-Zenodo：[download](https://zenodo.org/records/15609922)
-
 
