@@ -30,15 +30,16 @@ The dataset quality was checked using the following methods:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Conducting audio CER testing using ASR models
 
 ## Data storage schema
+The audio file storage structure is shown below, where x represents the speaker ID (0–9).<br>
 DEBATE_Audio<br>
-&nbsp;&nbsp;speaker_x<br>
-&nbsp;&nbsp;&nbsp;&nbsp;polyphone<br>
+&nbsp;&nbsp;-speaker_x<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-polyphone<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_p_id_000.wav<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_p_id_001.wav<br>
-&nbsp;&nbsp;&nbsp;&nbsp;segment<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-segment<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_seg_id_000.wav<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_seg_id_001.wav<br>
-&nbsp;&nbsp;&nbsp;&nbsp;stress<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-stress<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_s_id_000.wav<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sx_s_id_001.wav<br>
 
