@@ -5,6 +5,7 @@ This is the official repository of the DEBATE dataset, containing detailed infor
 <div align="center"><img width="600px" src="figure/overview.png" /></div>
 
 ## DEBATE Overview
+
 DEBATE dataset is a unique public Chinese speech-text dataset designed to study how speech cues and patterns—pronunciation, pause, stress and intonation—can help resolve textual ambiguity and reveal a speaker’s true intent.It contains 1,001 carefully selected ambiguous utterances, each recorded by 10 native speakers. 
 
 The table below provides the detailed statistics of the DEBATE dataset.
@@ -14,10 +15,11 @@ The table below provides the detailed statistics of the DEBATE dataset.
 |Task_Pause| 4010    |4.28   |3.84              |1.60-11.80         |
 |Task_Stres| 4000    |3.74   |3.37              |1.43-8.51          |
 |**Total** |**10010**|**9.66**|**3.47**         |**1.15-11.80**     |
+
 ## Dataset Construct
 <div align="center"><img width="600px" src="figure/pipeline.png" /></div>
 The data was collected from three primary sources: 
-- open-source corpora
-- social media platforms
-- standardised examination question banks
+&bull; open-source corpora
+&bull; social media platforms
+&bull; standardised examination question banks
 
