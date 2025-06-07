@@ -18,8 +18,10 @@ The table below provides the detailed statistics of the DEBATE dataset.
 
 ## Dataset Construct
 <div align="center"><img width="600px" src="figure/pipeline.png" /></div>
-The data was collected from three primary sources:<br>
+The text was collected from three primary sources:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; open-source corpora<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; social media platforms<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&bull; standardised examination question banks
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; standardised examination question banks<br>
+After collecting the text, we performed systematic manual annotation to classify the data into three distinct types of ambiguity:
+*polyphonic character ambiguity*, *structural ambiguity*, and *focus ambiguity*. 
 
