@@ -16,6 +16,9 @@ The table below provides the detailed statistics of the DEBATE dataset.
 |Task_Stres| 4000    |3.74   |3.37              |1.43-8.51          |
 |**Total** |**10010**|**9.66**|**3.47**         |**1.15-11.80**     |
 
+## DEBATE Dataset Usage
+DEBATE dataset is publicly available at [Zenodo](https://zenodo.org/records/15609922). All audio files and annotation files can be downloaded from here. <i>Please note that users are permitted to use this dataset only for non-commercial purposes under the CC BY-NC-4.0 license.</i>
+
 ## Dataset Construct
 <div align="center"><img width="600px" src="figure/pipeline.png" /></div>
 The text was collected from three primary sources:<br>
@@ -49,5 +52,4 @@ The folders <code><i>polyphone</i></code>, <code><i>segment</i></code>, and <cod
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; the semantic annotation of the sentence meaning<br>
 Additionally, <code><i>Task_Proun.xls</i></code> includes an extra column specifying the exact pronunciation of the polyphonic character. The <code><i>metadata.xls</i></code> contains the ID, age, gender, and regional information of the recording volunteers.
 
-## DEBATE Dataset Usage
-DEBATE dataset is publicly available at [Zenodo](https://zenodo.org/records/15609922). All audio files and annotation files can be downloaded from here. <i>Please note that users are permitted to use this dataset only for non-commercial purposes under the CC BY-NC-4.0 license.</i>
+
