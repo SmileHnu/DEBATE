@@ -14,8 +14,12 @@ The table below provides the detailed statistics of the DEBATE dataset.
 |Task_Pause| 4010    |4.28   |3.84              |1.60-11.80         |
 |Task_Stres| 4000    |3.74   |3.37              |1.43-8.51          |
 |**Total** |**10010**|**9.66**|**3.47**         |**1.15-11.80**     |
-## Dataset Download
-Zenodo：[download](https://zenodo.org/records/15609922)
-## Construct Pipeline
+## Dataset Construct
 <div align="center"><img width="600px" src="figure/pipeline.png" /></div>
+The data was collected from three primary sources: 
+- open-source corpora
+- social media platforms
+- standardised examination question banks
+Zenodo：[download](https://zenodo.org/records/15609922)
+
 
