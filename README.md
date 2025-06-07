@@ -9,6 +9,7 @@ DEBATE dataset is a unique public Chinese speech-text dataset designed to study 
 The table below provides the detailed statistics of the DEBATE dataset.
 |   Tasks  | Samples | Hours | Mean Duration(s) | Duration Range(s) |
 |:--------:|:-------:|:-----:|:----------------:|:-----------------:|
+|Task_Proun| 2000    |1.64   |2.94              |1.15-5.80          |
 ## Dataset Download
 Zenodo：[download](https://zenodo.org/records/15609922)
 ## Construct Pipeline
