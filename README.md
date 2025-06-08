@@ -20,7 +20,7 @@ The table below provides the detailed statistics of the DEBATE dataset.
 DEBATE dataset is publicly available at [Zenodo](https://zenodo.org/records/15609922). All audio files and annotation files can be downloaded from here. <i>Please note that users are permitted to use this dataset only for non-commercial purposes under the CC BY-NC-4.0 license.</i>
 
 ## Dataset Construct
-<div align="center"><img width="600px" src="figure/pipeline.png" /></div>
+<div align="center"><img width="600px" src="figure/construct_pipeline.png" /></div>
 The text was collected from three primary sources:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; open-source corpora<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; social media platforms<br>
