@@ -55,6 +55,15 @@ Additionally, <code><i>Task_Proun.xls</i></code> includes an extra column specif
 ## Reference
 If you use the DEBATE dataset, please cite the following paper:
 ```bibtex
+@misc{guo2025debatedatasetdisentanglingtextual,
+      title={DEBATE: A Dataset for Disentangling Textual Ambiguity in Mandarin Through Speech}, 
+      author={Haotian Guo and Jing Han and Yongfeng Tu and Shihao Gao and Shengfan Shen and Wulong Xiang and Weihao Gan and Zixing Zhang},
+      year={2025},
+      eprint={2506.07502},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.07502}, 
+}
 ```
 
 Comments on the experience with the dataset, using the following email, would be highly appreciated. <br>
